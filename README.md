@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there, I'm CoderShady! 👋
 
-<!--
-**CoderShady/CoderShady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer and security researcher focused on building resilient systems and exploring the cutting edge of AI agent security. I thrive on finding solutions, optimizing performance, and contributing to the open-source community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 My Core Stack
+
+**Primary Roles** – Ethical Hacking / Security Research / Bug Bounty Hunter / Web Development
+**Languages** – `Python` / `Java` / `JavaScript`
+**Frontend** – `HTML5` / `CSS3`
+**Security Expertise** – Penetration Testing / Vulnerability Analysis / `Burp Suite`
+**AI Focus** – Model Context Protocol (`MCP`) Knowledge
+
+---
+
+## 💡 Key Expertise & Unique Skills
+
+* **Critical Vulnerability Disclosure:** Recognized for the responsible reporting of a **Critical Remote Code Execution (RCE)** vulnerability ($\text{CVE-2025-55182}$) in LastMile AI's $\text{mcp-c}$ platform.
+* **WAF Evasion:** Demonstrated expertise in application security by successfully **bypassing an Akamai WAF** (Web Application Firewall) on an $\text{ASP.NET}$ application during previous assessments.
+
+---
+
+### 🛡️ Security Research & Hall of Fame Acknowledgments
+
+I believe in the power of responsible disclosure to keep the software ecosystem safe. This is a critical part of my contribution to the tech community.
+
+**🚨 Critical RCE Disclosure in LastMile AI's MCP Platform**
+
+| Detail | Value |
+| :--- | :--- |
+| **Vulnerability** | Critical Remote Code Execution (RCE) |
+| **CVE Identifier** | **CVE-2025-55182** |
+| **Affected Component** | `mcp-c` (The managed cloud platform for `mcp-agent`) |
+| **Recognition** | Publicly acknowledged by LastMile AI |
+| **Acknowledgment Link** | [**View on lastmile-ai/mcp-agent Security Policy**](https://github.com/lastmile-ai/mcp-agent/blob/main/SECURITY.md) |
+| **Date** | December 2025 |
+
+> Special thanks to CoderShady for responsibly disclosing a critical remote code execution vulnerability (CVE-2025-55182) in mcp-c – December 2025
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/aryan-dutta-140a75395/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="[Your Personal Website/Blog URL]" target="_blank">
+        <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Website Badge"/>
+    </a>
+    </p>
+
+<p align="center">
