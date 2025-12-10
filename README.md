@@ -6,18 +6,13 @@ I'm a passionate developer and security researcher focused on building resilient
 
 ## 💻 My Core Stack
 
-**Primary Roles** – Ethical Hacking / Security Research / Bug Bounty Hunter / Web Development
-**Languages** – `Python` / `Java` / `JavaScript`
-**Frontend** – `HTML5` / `CSS3`
-**Security Expertise** – Penetration Testing / Vulnerability Analysis / `Burp Suite`
-**AI Focus** – Model Context Protocol (`MCP`) Knowledge
-
----
-
-## 💡 Key Expertise & Unique Skills
-
-* **Critical Vulnerability Disclosure:** Recognized for the responsible reporting of a **Critical Remote Code Execution (RCE)** vulnerability ($\text{CVE-2025-55182}$) in LastMile AI's $\text{mcp-c}$ platform.
-* **WAF Evasion:** Demonstrated expertise in application security by successfully **bypassing an Akamai WAF** (Web Application Firewall) on an $\text{ASP.NET}$ application during previous assessments.
+| Category | Technologies |
+| :--- | :--- |
+| **Primary Roles** | Ethical Hacking / Security Research / Bug Bounty Hunter / Web Development |
+| **Languages** | `Python` / `Java` / `JavaScript` |
+| **Frontend** | `HTML5` / `CSS3` |
+| **Security Expertise** | Penetration Testing / Vulnerability Analysis / `Burp Suite` |
+| **AI Focus** | Model Context Protocol (`MCP`) Knowledge |
 
 ---
 
