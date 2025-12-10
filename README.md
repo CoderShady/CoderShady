@@ -41,9 +41,6 @@ I believe in the power of responsible disclosure to keep the software ecosystem 
     <a href="https://www.linkedin.com/in/aryan-dutta-140a75395/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="[Your Personal Website/Blog URL]" target="_blank">
-        <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Website Badge"/>
-    </a>
     </p>
 
 <p align="center">
