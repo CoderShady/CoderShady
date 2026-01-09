@@ -33,6 +33,16 @@ I believe in the power of responsible disclosure to keep the software ecosystem 
 
 > Special thanks to CoderShady for responsibly disclosing a critical remote code execution vulnerability (CVE-2025-55182) in mcp-c – December 2025
 
+**🔐 Advanced Web Security Research**
+
+| Detail | Value |
+| :--- | :--- |
+| **Discovery** | Logic-based Web Application Firewall (WAF) Bypass |
+| **Target Sector** | Fortune 500 Technology Company (Anonymized) |
+| **Technique** | HTTP Request Manipulation & Filter Evasion |
+| **Outcome** | Successfully exposed restricted ASP.NET `trace.axd` debugging handlers |
+| **Platform** | Intigriti |
+
 ---
 
 ### 🤝 Connect with Me
@@ -41,6 +51,8 @@ I believe in the power of responsible disclosure to keep the software ecosystem 
     <a href="https://www.linkedin.com/in/aryan-dutta-140a75395/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    </p>
+</p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codershady&show_icons=true&theme=radical" alt="CoderShady Stats" />
+</p>
